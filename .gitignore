@@ -1,0 +1,7 @@
+# Ignore data
+data/
+*.pth
+*.tar.gz
+*.pyc
+*.log
+*.jpg
